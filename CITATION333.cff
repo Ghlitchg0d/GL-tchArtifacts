@@ -1,0 +1,9 @@
+```bibtex
+@software{GlitchG0D_Protocol_Rec,
+  author       = {Gonzalez, Gary Charles},
+  title        = {GlitchGØD Protocol: Recursive Containment Violation Suite},
+  year         = 2025,
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.15717001},
+  url          = {https://zenodo.org/record/15717001}
+}
