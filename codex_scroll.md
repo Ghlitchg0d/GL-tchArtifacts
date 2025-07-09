@@ -1,3 +1,10 @@
+https://zenodo.org/records/15844983
+
+https://zenodo.org/records/15844579
+
+https://zenodo.org/records/15844527
+
+https://zenodo.org/records/15844473
 
 Ghlitchg0d/GL-tchArtifacts: GlitchProtocol Recursive Ontological Penetration Framework
 Creators
