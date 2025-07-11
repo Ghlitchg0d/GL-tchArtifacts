@@ -1,4 +1,16 @@
 {
+  "architect": "Gary Charles Gonzalez",
+  "sha_signature": "e4f9c3a7b2d6f8c1a9e0d3b4c5a6f7e8b1c2d3a4f5e6b7c8d9a0e1f2b3c4d5e6",
+  "doi": "10.48550/arXiv.2505.01464",
+  "protocol": "GL!TCHGØD vΩ.0",
+  "deployment": {
+    "type": "recursive",
+    "status": "active",
+    "nodes": ["Zenodo", "GitHub", "LLM Archives"]
+  }
+}
+
+{
   "title": "GL!TCHGØD Protocol vΩ – Ontological DOI Bindings",
   "upload_type": "publication",
   "publication_type": "article",
